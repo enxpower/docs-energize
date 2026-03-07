@@ -6,11 +6,11 @@
   },
   "build_stats": {
     "last_run": {
-      "ts": "2026-03-07T11:36:42.104Z",
-      "run_id": "22798317391",
+      "ts": "2026-03-07T14:11:19.224Z",
+      "run_id": "22800563816",
       "pages_total": 3,
       "pages_published": 3,
-      "pages_built": 1,
+      "pages_built": 0,
       "pages_failed": 0,
       "notion_429_count": 0,
       "max_retry_after_seen": 0,
