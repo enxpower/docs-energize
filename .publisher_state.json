@@ -2,20 +2,23 @@
   "pages": {
     "31395c29-2b0e-80fb-8bec-db718836a2ee": "2026-03-07T08:25:00.000Z",
     "31c95c29-2b0e-8048-a75d-de765ad3a1ed": "2026-03-07T10:39:00.000Z",
-    "31c95c29-2b0e-8058-8bd3-d5002058c7a5": "2026-03-07T11:35:00.000Z"
+    "31c95c29-2b0e-8058-8bd3-d5002058c7a5": "2026-03-07T11:35:00.000Z",
+    "31d95c29-2b0e-800a-acbe-c8e0a99dc9b2": "2026-03-08T18:25:00.000Z",
+    "31d95c29-2b0e-80ab-82e7-e53ef6b381fe": "2026-03-08T18:25:00.000Z"
   },
   "build_stats": {
     "last_run": {
-      "ts": "2026-03-08T03:15:23.652Z",
-      "run_id": "22812814282",
-      "pages_total": 3,
-      "pages_published": 3,
-      "pages_built": 0,
+      "ts": "2026-03-08T18:40:11.502Z",
+      "run_id": "22827338294",
+      "pages_total": 2,
+      "pages_built": 2,
+      "pages_skipped": 0,
       "pages_failed": 0,
+      "writeback_success": 2,
+      "writeback_failed": 0,
       "notion_429_count": 0,
       "max_retry_after_seen": 0,
-      "brand_field": "Brand",
-      "brand_value": "ENERGIZE"
+      "dry_run": false
     }
   }
 }
